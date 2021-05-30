@@ -7,6 +7,7 @@ This project is a one-page game using the framework Phaser. This framework "Phas
 - JS
 - HTML/CSS
 - DOM
+- [GitHub Pages](https://lwrgithub.github.io/mario-like-game/)
 
 
 ## Setup/Install
