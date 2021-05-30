@@ -10,9 +10,9 @@ This project is a one-page game using the framework Phaser. This framework "Phas
 - [GitHub Pages](https://lwrgithub.github.io/mario-like-game/)
 
 
-## Setup/Install
+## Downloand & Setup
 1. `git clone https://github.com/LWRGitHub/mario-like-game.git`
-2. Open HTML file
+2. Must run through web hosting service like "GitHub Pages" can't run locally
 
 
 ## IMG
