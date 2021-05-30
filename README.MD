@@ -18,4 +18,4 @@ This project is a one-page game using the framework Phaser. This framework "Phas
 
 ***Game Play***
 
-<img src="https://raw.githubusercontent.com/LWRGitHub/mario-like-game/main/game-play.png" alt="this is a screen shot of the mario like game being played.">
+<img src="https://raw.githubusercontent.com/LWRGitHub/mario-like-game/main/game-play.jpeg" alt="this is a screen shot of the mario like game being played.">
