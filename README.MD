@@ -1,6 +1,9 @@
 # Mario Like Game
 This project is a one-page game using the framework Phaser. This framework "Phaser" is an HTML & JS gaming framework basically it makes it easy to make a game with JavaScript. I hope you all have fun with it!
 
+***Game Play Instructions***
+- "Space bar" = jump
+- "Left & Right arrows" = move
 
 ## Tech Used
 - Phaser
